@@ -1,3 +1,3 @@
 # data-sourcing-challenge 
-This is the M6 Challenge where data is extracted, merged, and cleaned/formatted from two different sources, including The New York Times and The Movie Database. 
-Completed with help from an EdX tutor, and in a study group with Adam Millinger. 
+In this challenge, data is extracted from two different online databases by using APIs (the New York Times and the Movie Database TMDB), merged, and cleaned/formatted together.
+Completed independently and collaboratively in a student study group. 
